@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.oseemasuaku.codedutravail",
+      "sha256_cert_fingerprints": [
+        "BC:11:49:AC:F0:E7:2E:65:38:AF:71:F1:0F:B0:DE:A6:A5:50:78:BF:5F:B4:70:15:97:84:2E:F2:4C:40:0A:FF"
+      ]
+    }
+  }
+]
